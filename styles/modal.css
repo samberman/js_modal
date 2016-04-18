@@ -1,0 +1,34 @@
+body {
+	position: absolute; 
+}
+
+/*img {
+	/*text-align: center;*/
+/*	background: pink;
+	border: solid 2 blue;*/
+	/*margin: 200 auto;*/
+/*	width: 300px;
+	
+}*/
+
+#form {
+	display: none;
+	margin: 15% 625%;
+	z-index: 500;
+	position: absolute;
+	background: blue;
+	width: 300px;
+	padding: 50px;
+	color: white;
+}
+
+#modal {
+	display: none;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;	
+	background-color: rgba(0, 0, 0, 0.7);
+
+}
+
